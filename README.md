@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anushka Shree Bajpai 👋</h1>
 
-<h3 align="center">Tech @ Coforge | Aspiring AI Engineer | Building Reliable AI Agents & LLM Systems</h3>
+<h3 align="center">Tech @ Coforge | Building Reliable AI Agents & LLM Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/anushka-bajpai">LinkedIn</a> •
